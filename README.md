@@ -11,6 +11,6 @@
 
 ## 🎄 Retos
 
-| Día |             Reto             | Dificultad |                            Solución                            |
-| :-: | :--------------------------: | :--------: | :------------------------------------------------------------: |
-| 01  | **¡Primer regalo repetido!** |     🟢     | **https://github.com/jcodev2/adventjs/tree/master/ejercicio1** |
+| Día |             Reto             | Dificultad |                                Solución                                 |
+| :-: | :--------------------------: | :--------: | :---------------------------------------------------------------------: |
+| 01  | **¡Primer regalo repetido!** |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio1/index.js** |
