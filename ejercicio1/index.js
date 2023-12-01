@@ -1,10 +1,10 @@
 function findFirstRepeated(gifts) {
   const idSet = new Set()
-  for (let i = 0; i < gifts.length; i++) {
-    if (idSet.has(gifts[i])) {
-      return gifts[i]
+  for (const id of gifts) {
+    if (idSet.has(id)) {
+      return id
     }
-    idSet.add(gifts[i])
+    idSet.add(id)
   }
   return -1
 }
