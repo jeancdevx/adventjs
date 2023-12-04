@@ -15,3 +15,4 @@
 | 01  |   [**¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2023/1)   |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio1/index.js** |
 | 02  | [**Ponemos en Marcha la fabrica**](https://adventjs.dev/es/challenges/2023/2) |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio2/index.js** |
 | 03  |       [**El elfo travieso**](https://adventjs.dev/es/challenges/2023/3)       |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio3/index.js** |
+| 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio4/index.js** |
