@@ -15,7 +15,9 @@
 | 01  |   [**¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2023/1)   |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio1/index.js** |
 | 02  | [**Ponemos en Marcha la fabrica**](https://adventjs.dev/es/challenges/2023/2) |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio2/index.js** |
 | 03  |       [**El elfo travieso**](https://adventjs.dev/es/challenges/2023/3)       |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio3/index.js** |
-| 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio4/index.js** |
+| 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio4/index.js** |
+| 05  |    [**El Cybertruck de Santa**](https://adventjs.dev/es/challenges/2023/5)    |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio5/index.js** |
+| 06  |      [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6)      |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio6/index.js** |
 
 > [!TIP]
 > Puedes clonar este repositorio y ejecutar los retos en tu máquina local.
