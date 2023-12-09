@@ -18,6 +18,8 @@
 | 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio4/index.js** |
 | 05  |    [**El Cybertruck de Santa**](https://adventjs.dev/es/challenges/2023/5)    |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio5/index.js** |
 | 06  |      [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6)      |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio6/index.js** |
+| 07  |       [**Las cajas en 3D**](https://adventjs.dev/es/challenges/2023/7)        |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio7/index.js** |
+| 08  |     [**Ordenando el almacen**](https://adventjs.dev/es/challenges/2023/8)     |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio8/index.js** |
 
 > [!TIP]
 > Puedes clonar este repositorio y ejecutar los retos en tu máquina local.
