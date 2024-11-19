@@ -26,6 +26,15 @@
 | 12  |      [**¿Es una copia valida?**](https://adventjs.dev/es/challenges/2023/12)      |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio12/index.js** |
 | 13  |      [**Calculando el tiempo**](https://adventjs.dev/es/challenges/2023/13)       |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio13/index.js** |
 | 14  |         [**Evita la alarma**](https://adventjs.dev/es/challenges/2023/14)         |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio14/index.js** |
+| 15  |         [**Conducción autónoma**](https://adventjs.dev/es/challenges/2023/15)     |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio15/index.js** |
+| 16  |         [**Transforma el árbol**](https://adventjs.dev/es/challenges/2023/16)     |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio16/index.js** |
+| 17  |         [**Optimiza los intervalos**](https://adventjs.dev/es/challenges/2023/17)  |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio17/index.js** |
+| 18  |         [**Dibuja el reloj**](https://adventjs.dev/es/challenges/2023/18)         |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio18/index.js** |
+| 19  |         [**Revela el sabotaje**](https://adventjs.dev/es/challenges/2023/19)      |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio19/index.js** |
+| 20  |         [**Distribuye los regalos**](https://adventjs.dev/es/challenges/2023/20)  |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio20/index.js** |
+| 21  |         [**Encuentra el segmento balanceado**](https://adventjs.dev/es/challenges/2023/21) |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio21/index.js** |
+| 22  |         [**Compila el código**](https://adventjs.dev/es/challenges/2023/22)       |     🟢     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio22/index.js** |
+| 23  |         [**Organiza la cena de Navidad**](https://adventjs.dev/es/challenges/2023/23) |     🟡     | **https://github.com/jcodev2/adventjs/blob/master/ejercicio23/index.js** |
 
 > [!TIP]
 > Puedes clonar este repositorio y ejecutar los retos en tu máquina local.
